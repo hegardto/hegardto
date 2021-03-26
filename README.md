@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hegardto
 - 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning about the amazing field of AI in my masters program Data Science & AI @ Chalmers University of Technology.
-- 💞️ I’m looking to collaborate on projects within the field during 2021 to get some hands-on technical experience.
+- 🌱 I’m currently learning about techniques and theory within the field in my masters program Data Science & AI @ Chalmers University of Technology.
+- 💞️ I’m looking to collaborate on projects during 2021 to get some hands-on technical experience.
 - 📫 How to reach me: johan.hegardt@gmail.com
 
 <!---
