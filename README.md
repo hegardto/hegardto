@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hegardto
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning about techniques and theory within the field in my masters program Data Science & AI @ Chalmers University of Technology.
-- 💞️ I’m looking to collaborate on projects during 2021 to get some hands-on technical experience.
-- 📫 How to reach me: johan.hegardt@gmail.com
+- 👋 Hi, I’m Johan Hegardt
+- 👀 I’m interested in data science, AI in general and machine learning in particular.
+- 🌱 I’m currently learning about techniques and theory within this field in my master program Data Science & AI @ Chalmers University of Technology (Gothenburg, Sweden).
+- 💼 I’m looking for some hands-on technical experience within data science, AI and machine learning.
+- 📫 Reach out to me at johan.hegardt@gmail.com or https://www.linkedin.com/in/johan-hegardt/
 
 <!---
 hegardto/hegardto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
